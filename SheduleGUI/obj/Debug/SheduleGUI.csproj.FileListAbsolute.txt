@@ -1,0 +1,11 @@
+E:\Тестовое задание\Shedule\SheduleGUI\bin\Debug\SheduleGUI.exe.config
+E:\Тестовое задание\Shedule\SheduleGUI\bin\Debug\SheduleGUI.exe
+E:\Тестовое задание\Shedule\SheduleGUI\bin\Debug\SheduleGUI.pdb
+E:\Тестовое задание\Shedule\SheduleGUI\obj\Debug\SheduleGUI.csprojResolveAssemblyReference.cache
+E:\Тестовое задание\Shedule\SheduleGUI\obj\Debug\SheduleGUI.g_SheduleForm.resources
+E:\Тестовое задание\Shedule\SheduleGUI\obj\Debug\SheduleGUI.Properties.Resources.resources
+E:\Тестовое задание\Shedule\SheduleGUI\obj\Debug\SheduleGUI.csproj.GenerateResource.Cache
+E:\Тестовое задание\Shedule\SheduleGUI\obj\Debug\SheduleGUI.exe
+E:\Тестовое задание\Shedule\SheduleGUI\obj\Debug\SheduleGUI.pdb
+E:\Тестовое задание\Shedule\SheduleGUI\bin\Debug\SheduleLib.dll
+E:\Тестовое задание\Shedule\SheduleGUI\bin\Debug\SheduleLib.pdb
