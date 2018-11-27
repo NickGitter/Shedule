@@ -1,0 +1,5 @@
+E:\Тестовое задание\Shedule\SheduleLib\bin\Debug\SheduleLib.dll
+E:\Тестовое задание\Shedule\SheduleLib\bin\Debug\SheduleLib.pdb
+E:\Тестовое задание\Shedule\SheduleLib\obj\Debug\SheduleLib.csproj.ResolveComReference.cache
+E:\Тестовое задание\Shedule\SheduleLib\obj\Debug\SheduleLib.dll
+E:\Тестовое задание\Shedule\SheduleLib\obj\Debug\SheduleLib.pdb

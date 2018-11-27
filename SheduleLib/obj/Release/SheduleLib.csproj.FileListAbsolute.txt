@@ -1,0 +1,12 @@
+F:\Тестовое задание\Shedule\SheduleLib\obj\Release\SheduleLib.csprojResolveAssemblyReference.cache
+F:\Тестовое задание\Shedule\SheduleLib\obj\Release\SheduleLib.csproj.ResolveComReference.cache
+F:\Тестовое задание\Shedule\SheduleLib\bin\Release\SheduleLib.dll
+F:\Тестовое задание\Shedule\SheduleLib\bin\Release\SheduleLib.pdb
+F:\Тестовое задание\Shedule\SheduleLib\obj\Release\SheduleLib.dll
+F:\Тестовое задание\Shedule\SheduleLib\obj\Release\SheduleLib.pdb
+E:\Тестовое задание\Shedule\SheduleLib\bin\Release\SheduleLib.dll
+E:\Тестовое задание\Shedule\SheduleLib\bin\Release\SheduleLib.pdb
+E:\Тестовое задание\Shedule\SheduleLib\obj\Release\SheduleLib.csprojResolveAssemblyReference.cache
+E:\Тестовое задание\Shedule\SheduleLib\obj\Release\SheduleLib.csproj.ResolveComReference.cache
+E:\Тестовое задание\Shedule\SheduleLib\obj\Release\SheduleLib.dll
+E:\Тестовое задание\Shedule\SheduleLib\obj\Release\SheduleLib.pdb
